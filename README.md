@@ -1,5 +1,6 @@
 # Monday Coffee Sales Data Analysis For Expantion
 
+![image alt](https://github.com/shubhamwasnik199/SQL_Project-Monday_Coffee_Expantion-Data_Analysis/blob/b9c6cbfc8d456041b85820c0a0da3063198db750/1.png)
 
 
 ## Project Overview
